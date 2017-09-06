@@ -9,6 +9,7 @@ ImageView is an audio plugin that allows the user to view images in a directory 
 *- the plug-in will work with other types of pictures as well; you can attach pictures of cats, puppies, or your favorite Home Depot aisles
 
 => The plug-in displays JPG, JPEG, PNG, and GIF images.
+
 => While copying files, make sure that all images have unique names; the plugin replaces an image with the same name with a new one.
 
 <img src="ImageView2.0_1.png" alt="imageview">
