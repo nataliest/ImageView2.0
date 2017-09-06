@@ -12,4 +12,6 @@ ImageView is an audio plugin that allows the user to view images in a directory 
 
 => While copying files, make sure that all images have unique names; the plugin replaces an image with the same name with a new one.
 
+Demo using Logic Pro X: https://www.youtube.com/watch?v=gAAXVrSfSfU
+
 <img src="ImageView2.0_1.png" alt="imageview">
